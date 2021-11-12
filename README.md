@@ -1,2 +1,2 @@
-# messi-or-ronaldo
-Flask app that figures out if the pic is Messi or Ronaldo
+# Brain-tumor-detector
+Model that figures out if you have a brain tumor or not
