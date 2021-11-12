@@ -1,2 +1,2 @@
-# Gender-detector
-Flask app that figures out if you are a male or a female based on a pic of you
+# messi-or-ronaldo
+Flask app that figures out if the pic is Messi or Ronaldo
